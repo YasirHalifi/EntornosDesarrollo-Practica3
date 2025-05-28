@@ -1,3 +1,11 @@
+/**
+ * Clase MiVector
+ * Gestiona un array de enteros con operaciones básicas.
+ * Autor: Yasir Halifi
+ * Versión: 1.0
+ * Fecha: 25/11/2024
+ */
+
 import java.util.Scanner;
 public class MiVector {
         private int[] v;
