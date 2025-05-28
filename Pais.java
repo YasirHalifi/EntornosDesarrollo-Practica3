@@ -1,3 +1,12 @@
+/**
+ * Clase Pais
+ * Representa un país con sus atributos principales.
+ * Autor: Yasir Halifi
+ * Versión: 1.0
+ * Fecha: 25/11/2024
+ */
+
+
 public class Pais {
     private String nombre;
     private int nHabitantes;
